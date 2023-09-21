@@ -1,0 +1,21 @@
+html syntax
+============
+html document is divided into 2 parts :
+--------------------------------------------------
+1)head part -> html page configuration information
+2)body part -> displaying content
+===================================================
+<!DOCTYPE html>
+
+<html>
+
+  <head></head>
+
+  <body></body>
+
+</html>
+====================================================
+attribute syntax
+-----------------
+attributeName="attributeValue"
+====================================================

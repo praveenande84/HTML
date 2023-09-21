@@ -1,0 +1,11 @@
+address
+===========================
+1)absolute path => root
+c:\users\praveen\image.jpg
+--------------------------
+2)relative path => current folder location
+praveen\image.jpg
+
+../ => one step back from current folder location => goto parent folder
+../../ => two steps back from current folder location => goto parent folder
+======================================

@@ -1,0 +1,9 @@
+marquee container tag
+=====================
+marquee attributes
+------------------
+1)direction
+2)width
+3)height
+4)scrollamount
+====================

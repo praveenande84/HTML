@@ -1,0 +1,6 @@
+paragraph container tag :
+==========================
+It takes 2 times line break empty tag before and after of the paragraph.
+-------------------------------------------------------------------------
+<p>paragraph</p>  =  <br><br>paragraph<br><br>
+=========================================================================

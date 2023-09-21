@@ -1,0 +1,14 @@
+html container tags
+=====================
+1)header container tag
+2)nav container tag => navbar
+3)aside container tag => side bar
+4)main container tag => main content
+5)section container tag 
+6)article container tag
+7)div container tag =>divided & use css
+8)footer container tag 
+========================
+These container tags are used to divide smaller parts for
+understanding and applaying css easily.
+=============================================================

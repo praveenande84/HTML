@@ -1,0 +1,12 @@
+.heading {
+    background-color: lightblue;
+    font-size: 24px;
+    padding: 20px;
+}
+.paragraph {
+    background-color: lightblue;
+    padding: 20px;
+}
+.link-text {
+    background-color: yellow;
+}

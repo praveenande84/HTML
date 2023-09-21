@@ -1,0 +1,8 @@
+HTML Introduction :
+===================
+1)html => hyper text markup language.
+2)html is used to create static web pages.
+3)text editor is the software for html coding.
+4)html file save with extension .html
+----------------------------------------------
+		   

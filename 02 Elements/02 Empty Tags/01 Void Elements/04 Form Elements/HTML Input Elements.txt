@@ -1,0 +1,17 @@
+HTML Elements:
+==============
+1) input
+----------
+input element creates interactive controls to accept the data from the user.
+-------------------
+Different types of inputs:
+--------------
+text
+password
+radio
+date checkbox
+===============
+
+
+
+

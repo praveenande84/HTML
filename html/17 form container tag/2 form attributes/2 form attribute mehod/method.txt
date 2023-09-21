@@ -1,0 +1,10 @@
+method :
+=========
+1) method="get"
+2) methos="post"
+-------------------------
+data collect from browser with name attribute.
+==================================== 
+get => data is displayed on browser url
+post => data is hidden on browser url
+=====================================

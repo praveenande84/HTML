@@ -1,0 +1,5 @@
+Span:
+-------
+apply some styles for a particular character , word , group of words.
+content comes side by side.
+=======================

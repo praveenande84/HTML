@@ -1,0 +1,12 @@
+html coding :
+=============
+html coding is a tag based coding.
+----------------------------------
+html tags are two types :
+          1) container tag
+          2) empty tag		  
+----------------------------------
+=> attributes are used to give extra information to the html element.
+-------------------------------------------------------------------
+=>  html elements tell the browser that how to display the content.
+====================================================================
